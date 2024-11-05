@@ -1,0 +1,7 @@
+torch
+pygame
+sounddevice
+gtts
+vosk
+transformers
+numpy
